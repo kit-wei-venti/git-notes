@@ -41,8 +41,17 @@
   <img src="Images/Screenshot from 2022-09-25 12-56-58.png">
   
   
-  <h3> GIT push</h3>
-  <li> take your changes you have made in repo and push it up to github (same concept as git clone just opp) </li>
+  <h3> GIT push:</h3>
+  <li> take your changes you have made in repo and push it up to github  </li>
   <li> need to generate token if not get this error</li>
   <img src="Images/gitpusherror.png" >
+  
+  <h3> GIT pull:</h3>
+  <li>opp of git push. EG: u think the codes on ur github is more outdated than the one on ur local    computer, then we use git pull.</li>
+  <li> smths might have merge conflict then need choose in ur code what u wanna remove or keep </li>
+  
+  <h3> GIT Log:</h3>
+  <li> keep track of changes/ commits you have made to your code (can see the message u type, who edited...) </li>
+  
+
 </ul>
