@@ -76,6 +76,6 @@
   <li> merge diff branches (EG: u make changes to both brnaches in ur codes now u wanna combine both changes tgt)</li>
   
   
-  <h3>GIT fork</h3>
+  <h3>GIT rebase</h3>
   <li> copy</li>
 </ul>
