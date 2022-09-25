@@ -12,3 +12,21 @@
 
 
 <a href="https://ongkitwei.github.io/passenger-counter/"> click here </a>
+
+
+<h2> GIT </h2>
+<ul>
+  <h3>What is git? </h3>
+  <li>keep track of changes to code, synchronise work/code with different colleagues</li>
+  <li>test changes to code without losing the original</li>
+  <li>revert back to old version of code!</li>
+  
+  <h3> Git Clone:</h3>
+  <li> take a repository from internet and download it onto your computer</li>
+  
+  <h3> Git Commit:</h3>
+  <li> save the current state of the files and folders inside the repository and take a snapshot, so that later you can refer back to them</li>
+  
+  <h3> Git Add:</h3>
+  <li> it is use to add a file into a checklist such tht when the next time u wanna save it, git will save all these files you have added. it is kinda like   shortlisting the files you wanna save!</li>
+</ul>
