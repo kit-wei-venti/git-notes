@@ -37,6 +37,8 @@
    <h3> GIT status:</h3>
   <li> It tells u what is currently happening in ur github repo</li>
   <img src="Images/Screenshot from 2022-09-25 12-17-33.png" >
+  <li> your branch is ahed of origin/main : means that ur version is more updated than the one on github. (origin/main is refering to github)</li>
+  <img src="Images/Screenshot from 2022-09-25 12-56-58.png">
   
   
   <h3> GIT push</h3>
