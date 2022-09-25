@@ -52,6 +52,7 @@
   
   <h3> GIT Log:</h3>
   <li> keep track of changes/ commits you have made to your code (can see the message u type, who edited...) </li>
+  <img style=" height: 400px;" src="Images/Screenshot from 2022-09-25 15-48-05.png">
   
   
 
