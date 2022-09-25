@@ -23,13 +23,21 @@
   <li>revert back to old version of code!</li>
   
   <h3> Git Clone:</h3>
-  <li> take a repository from internet and download it onto your computer</li>
+  <li> take a repository from internet and download it onto your computer (nned the github repo link)</li>
   
   <h3> Git Commit:</h3>
   <li> save the current state of the files and folders inside the repository and take a snapshot, so that later you can refer back to them</li>
   <li>can use git commit -m "write the meesage u want to convey"</li>
-  <img src
+  <img src="Images/Screenshot from 2022-09-25 12-02-43.png" height=300px;>
   
   <h3> Git Add:</h3>
-  <li> it is use to add a file into a checklist such tht when the next time u wanna save it, git will save all these files you have added. it is kinda like   shortlisting the files you wanna save!</li>
+  <li> it is use to add a file into a checklist such tht when the next time u wanna save it, git will save all these files you have added. it is kinda      like shortlisting the files you wanna save!</li>
+  
+   <h3> GIT status:</h3>
+  <li> It tells u what is currently happening in ur github repo</li>
+  <img src="Images/Screenshot from 2022-09-25 12-17-33.png" >
+  
+  <h3> GIT push</h3>
+  <li> take your changes you have made in repo and push it up to github (same concept as git clone just opp) </li>
+  
 </ul>
