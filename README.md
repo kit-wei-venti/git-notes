@@ -54,6 +54,24 @@
   <li> keep track of changes/ commits you have made to your code (can see the message u type, who edited...) </li>
   <img style=" height: 400px;" src="Images/Screenshot from 2022-09-25 15-48-05.png">
   
+  <h3> GIT reset:</h3>
+  <li>  accidentally made a change you actually dw, use git reset to go back to previous commit, or can use it to reset everyth.</li>
+  <li> can go back to specific commit (jus need the hash can be found by using git log) (git reset --hard commit) </li>
+  <li> can also go back to the repo at github (origin/master) (git reset --hard origin/master)</li>
   
+  <h2> GIT branching </h2>
+  <li> git branching allow u to work on multiple things simultaneously without disrupting the master, can work on multiple rep at the same time </li>
+  <li> if we dont use git branching we cant work on many repo at the same time, so if there is a bug somewhr behind, u cant work on other things</li>
+  <li> master branch: default branch</li>
+  <li> head branch: whr u are currently working on (can switch from one branch to another branch)</li>
+  <li> feature/ other branch</li>
 
+  <h3> GIT branch </h3>
+  <li> tell u wat branch u are currently on (the star will tell you) and what branches exist.</li>
+  
+  <h3> GIT checkout </h3>
+  <li> use git checkout to change the branch u wanna work on </li>
+  
+  <h3> GIT merge </h3>
+  <li> merge diff branches (EG: u make changes to both brnaches in ur codes now u wanna combine both changes tgt)</li>
 </ul>
