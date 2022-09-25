@@ -29,6 +29,7 @@
   <li> save the current state of the files and folders inside the repository and take a snapshot, so that later you can refer back to them</li>
   <li>can use git commit -m "write the meesage u want to convey"</li>
   <img src="Images/Screenshot from 2022-09-25 12-02-43.png" height=300px;>
+  <li> if u wanna combine git commit and git add, eg: wanna git add all the files, u can use <strong>git commit -am "message u wanna write here"</strong>
   
   <h3> Git Add:</h3>
   <li> it is use to add a file into a checklist such tht when the next time u wanna save it, git will save all these files you have added. it is kinda      like shortlisting the files you wanna save!</li>
@@ -37,7 +38,9 @@
   <li> It tells u what is currently happening in ur github repo</li>
   <img src="Images/Screenshot from 2022-09-25 12-17-33.png" >
   
+  
   <h3> GIT push</h3>
   <li> take your changes you have made in repo and push it up to github (same concept as git clone just opp) </li>
-  
+  <li> need to generate token if not get this error</li>
+  <img src="Images/gitpusherror.png" >
 </ul>
