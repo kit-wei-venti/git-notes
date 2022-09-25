@@ -74,4 +74,6 @@
   
   <h3> GIT merge </h3>
   <li> merge diff branches (EG: u make changes to both brnaches in ur codes now u wanna combine both changes tgt)</li>
+  
+  <h3></h3>
 </ul>
