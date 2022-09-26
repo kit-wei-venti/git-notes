@@ -16,6 +16,7 @@
 
 
 <h2> GIT </h2>
+<a href="https://www.youtube.com/watch?v=NcoBAfJ6l2Q&t=1619s">Link to GIT</a>
 <img src="Images/git.png" height= 250px;>
 <ul>
   <h3>What is git? </h3>
@@ -26,7 +27,7 @@
   <h3> Git Clone:</h3>
   <li> take a repository from internet and download it onto your computer (nned the github repo link)</li>
   
-  <h3> Git Commit:</h3>
+  <h3> Git Commit:</h3>https://www.youtube.com/watch?v=NcoBAfJ6l2Q&t=1619s
   <li> save the current state of the files and folders inside the repository and take a snapshot, so that later you can refer back to them</li>
   <li>can use git commit -m "write the meesage u want to convey"</li>
   <img src="Images/Screenshot from 2022-09-25 12-02-43.png" height=300px;>
