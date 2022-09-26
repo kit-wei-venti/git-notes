@@ -1,6 +1,5 @@
 <h2> lxc exec u2004 -- sudo -iu ubuntu bash -ilc "terminator&" </h2>
-<h2> difference between catkin_make and catkin_build </h2>
-  <p> catkin build can be used from any directory in the workspace while catkin_make only works in the top level directory. </p>
+
 
 <h2> container </h2>
 <ul> 
@@ -35,6 +34,12 @@
 
 <a href="https://ongkitwei.github.io/passenger-counter/"> click here </a>
 
+<h2> difference between catkin_make and catkin_build </h2>
+  <p> catkin build can be used from any directory in the workspace while catkin_make only works in the top level directory. </p>
+
+<h2> CMake and CMalelists</h2>
+<p> CMake is a build system tht uses script called CMakelists to generate build files for specific environment </p>
+<p> CMakelist: CMakeLists. txt file contains a set of directives and instructions describing the project's source files and targets (executable, library, or both).</p>
 
 <h2> GIT </h2>
 <a href="https://www.youtube.com/watch?v=NcoBAfJ6l2Q&t=1619s">Link to GIT</a>
@@ -102,4 +107,5 @@
   
   <h3>GIT rebase</h3>
   <li> copy</li>
+  <li> Rebasing is the process of combining or moving a sequence of commits on top of a new base commit. </li>
 </ul>
