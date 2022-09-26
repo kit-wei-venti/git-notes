@@ -2,10 +2,31 @@
 <h2> difference between catkin_make and catkin_build </h2>
   <p> catkin build can be used from any directory in the workspace while catkin_make only works in the top level directory. </p>
 
+<h2> container </h2>
+<ul> 
+  <li>can run multiple container on one machine!</li>
+  <li> they contain packages of software and can run on any environment</li>
+  <li> lightweight, so can run more containers compared to vms. require fewer resources deploy faster </li>
+</ul>
+
 
 <h2> what is echo for?</h2>
   <p> It shows the data published on a topic </p>
-
+  
+  <h2> wget </h2>
+  <p> used this command to download files from internet (use this with the file url u wanna download) </p>
+  
+  <h2> echo </h2>
+  <p>use to display text, strings or messages</p>
+  
+  <h2> touch </h2>
+  <p> create empty file </p>
+  
+  <h2>cat</h2>
+  <p> create single/multiple file, view it, also gives us output of files in terminal </p>
+  
+  <h2> sudo </h2>
+  <p> very powerful command </p>
 
 <h2> what is a package , and what does it contain? </h2>
   <div> 1)it must contain a <strong>.xml file </strong></div>
