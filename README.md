@@ -17,6 +17,7 @@
 
 <h2> GIT </h2>
 <a href="https://www.youtube.com/watch?v=NcoBAfJ6l2Q&t=1619s">Link to GIT</a>
+<br>
 <img src="Images/git.png" height= 250px;>
 <ul>
   <h3>What is git? </h3>
