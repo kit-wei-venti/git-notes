@@ -1,18 +1,22 @@
 <h2> lxc exec u2004 -- sudo -iu ubuntu bash -ilc "terminator&" </h2>
 
 <img src="Images/bashrc.png">
+<p> put your source into bashrc so dn to source evrytime</p>
 <h2> container </h2>
 <ul> 
   <li>can run multiple container on one machine!</li>
   <li> they contain packages of software and can run on any environment</li>
   <li> lightweight, so can run more containers compared to vms. require fewer resources deploy faster </li>
 </ul>
-
+<h2> <strong> rosrun, ros launch </strong></h2>
 <h2> rospack find </h2>
 <p> can use it to find package </p>
 
 <h2> what is echo for?</h2>
   <p> It shows the data published on a topic </p>
+  
+  <h2> list -a </h2>
+  <p> show u all the files including the hidden files </p>
   
   <h2> wget </h2>
   <p> used this command to download files from internet (use this with the file url u wanna download) </p>
