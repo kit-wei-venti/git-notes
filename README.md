@@ -8,6 +8,8 @@
   <li> lightweight, so can run more containers compared to vms. require fewer resources deploy faster </li>
 </ul>
 
+<h2> rospack find </h2>
+<p> can use it to find package </p>
 
 <h2> what is echo for?</h2>
   <p> It shows the data published on a topic </p>
@@ -28,7 +30,7 @@
   <p> very powerful command </p>
 
 <h2> what is a package , and what does it contain? </h2>
-  <div> 1)it must contain a <strong>.xml file </strong></div>
+  <div> 1)it must contain a <strong>.xml file </strong></div>roscore explain
   <div> 2)it must contain a CMakeLists.txt which uses catkin </strong></div>
 
 
