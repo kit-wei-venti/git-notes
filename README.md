@@ -1,6 +1,6 @@
 <h2> lxc exec u2004 -- sudo -iu ubuntu bash -ilc "terminator&" </h2>
 
-
+<img src="Images/bashrc.png">
 <h2> container </h2>
 <ul> 
   <li>can run multiple container on one machine!</li>
