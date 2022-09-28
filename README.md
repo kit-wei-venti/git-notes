@@ -15,6 +15,9 @@
 <h2> what is echo for?</h2>
   <p> It shows the data published on a topic </p>
   
+  <h2> difference between "sudo apt" and "sudo apt-get"</h2>
+  <p>
+  
   <h2> list -a </h2>
   <p> show u all the files including the hidden files </p>
   
