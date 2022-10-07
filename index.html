@@ -24,11 +24,7 @@
             <li> lightweight, so can run more containers compared to vms. require fewer resources deploy faster </li>
         </ul>
         
-        <h2> writing a <strong>launch file</strong>(task assigned by yong tian)</h2>
-        <p>things to note: when using ros launch, we do not need to roscore as roslaunch will helps us to execute roscore!</p>
-        <p> question to ask: what is  the purpose of roslaunch?</p>
-        <P> remap: rename it</P>
-        <p> group: groups with different namespace, start diff simulators without conflicts</p>
+    
         
         <h2> <strong> rosrun, ros launch </strong></h2>
         <h2> rospack find </h2>
@@ -82,9 +78,40 @@
         <p><strong>RoutePlannerBooking: </strong></p> /home/ubuntu/av-system/catkin_ws/src/booking/RoutePlannerBooking
 
 
-        
+        <h2> writing a <strong>launch file</strong>(task assigned by yong tian)</h2>
+        <p>things to note: when using ros launch, we do not need to roscore as roslaunch will helps us to execute roscore!</p>
+        <p> question to ask: what is  the purpose of roslaunch?</p>
+        <P> remap: rename it</P>
+        <p> group: groups with different namespace, start diff simulators without conflicts</p>
           
-        </ul>
+
+        <h3>ROS launch tag:</h3>
+        <ol>
+
+          <li> 
+            <strong>launch:</strong> 
+          </li>
+
+          <li>
+            <strong>node:</strong> 3 attributes, name, package and type. It is to link the package that you want to lauch.
+          </li>
+
+          <li> 
+            <strong>param/rosparam:</strong> it defines the parameter to be set. Eg: you can specify different attributes like 'textfile' 'binfile' 'command' 'type' 'value' 'name' 
+            <div><a href="http://wiki.ros.org/roslaunch/XML/param" target="_blank">click here for more info</a></div>
+          </li>
+
+          <li> 
+            <strong>group:</strong> The <group> tag makes it easier to apply settings to a group of nodes. It has an ns attribute that lets you push the group of nodes into a separate namespace. You can also use the <remap> tag to apply remap setting across the group.
+          </li>
+
+          <li>
+            <strong>remap:</strong> subscribing to other topics as well. For example, we have 2 topics which are 'cat' and 'dog'. If let's say our node has already subscribed to 'cat' topic and will be receiving a message hello. If we want 'dog' topic to receive that message as well have to subscribe our node to that topic. To do that we can use remap. (<remap from="cat" to="dog"/>)
+            <div><a href="http://wiki.ros.org/roslaunch/XML/remap" target="_blank">click here for more info</a></div>
+          </li>
+        
+
+        </ol>
 
     </body>
   </html>
